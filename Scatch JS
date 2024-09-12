@@ -1,0 +1,35 @@
+p5 // Provavelmente o início de um bloco de código p5.js
+
+// Declaração de variáveis (algumas incompletas ou com erros de sintaxe)
+let psichorizontal; // Variável não utilizada?
+let posicaovertical;
+
+function setup() {
+  createCanvas(400, 400); // Cria um canvas de 400x400 pixels
+  background(100, 0, 0); // Define a cor de fundo para vermelho escuro
+
+  cor = color(random(9, 255), random(0, 255), random(0, 250)); // Cria uma cor aleatória
+
+  posicaonorizontal = 200;
+  postconvertical = 280; // Provavelmente um erro de digitação: deveria ser "posicaovertical"?
+
+  function dram() { // Função com nome incorreto? Deveria ser "draw"?
+    fill(cor); // Define a cor de preenchimento
+    circle(posicauhorizontal, jostcanvert ic 1, 50); // Comando circle com erros de sintaxe
+    15 postcanhorizontal; // Linha sem sentido
+  }
+
+  posimzontal peschertzantai-1: // Linha sem sentido
+  rose postcachorizontal)( // Linha sem sentido
+  posicaohorszontal posicaoborizontal+1 // Linha sem sentido
+
+  if(sousey postcarvertical)( // Linha sem sentido
+    postchovertical // Linha sem sentido
+
+  24koposicauvertical) // Linha sem sentido
+  posicaovertical; // Atribuição sem utilidade?
+}
+
+Pressed // Função sem corpo
+  color Crandon(9,255), randon(0, 255) rando // Linha com erros de sintaxe
+  0.255), randomie,100)); // Linha com erros de sintaxe
