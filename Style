@@ -1,0 +1,15 @@
+<head>
+  <body>
+    <div id="mySketch">
+    </div>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      #mySketch {
+        display: block;
+      }
+    </style>
+  </body>
+</head>
